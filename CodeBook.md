@@ -1,4 +1,5 @@
-## CodeBook - UCI - Human Activity Recognition Using Smartphones Data Set
+# CodeBook - Tidy Dataset
+##UCI - Human Activity Recognition Using Smartphones Data Set
 
 This Codebook refers to a modified version of the original Human Activity Recognition Dataset (for more information: [README.md](https://github.com/brunobduarte/Getting-and-Cleaning-Data/blob/master/README.md)).
 All changes made here were for the purpose of achieving a tidy dataset, based on the concept of [Jeff Leek] (https://github.com/jtleek/datasharing).
